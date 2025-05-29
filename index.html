@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Find the Country Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Find the Country</h1>
+  <p id="target-country"></p>
+  <p id="feedback"></p>
+  <div id="map-container">
+    <!-- Example of minimal SVG -->
+    <svg id="world-map" viewBox="0 0 800 400">
+      <path id="France" d="M100,150 L120,150 L120,170 L100,170 Z" />
+      <path id="Germany" d="M140,150 L160,150 L160,170 L140,170 Z" />
+      <!-- Add more countries here -->
+    </svg>
+  </div>
+  <button onclick="startGame()">New Country</button>
+  <script src="script.js"></script>
+</body>
+</html>
