@@ -1,9 +1,12 @@
-🗺️ Geo-Trivia: Find the Country Game
+## 🗺️ Geo-Trivia: Find the Country Game
+
 This is a web-based geography trivia game designed to sharpen your knowledge of world countries through visual engagement and fast-paced identification. Players must locate and correctly identify countries on a world map—perfect for educators, students, and geography nerds alike!
 
 Built using HTML, CSS, and JavaScript, this interactive map game provides instant feedback to reinforce learning.
 
-🕹️ How to Play
+--- 
+
+## 🕹️ How to Play
 Click "Begin" to start the game.
 
 A random country will be selected as the target.
@@ -16,7 +19,9 @@ Get it wrong? The map flashes red and you're given a few chances to try again.
 
 The game continues until you've identified all countries—or until you run out of attempts!
 
-📁 What's Included
+---
+
+## 📁 What's Included
 This version includes:
 
 index.html: Main game interface and layout
@@ -25,7 +30,9 @@ style.css: Stylesheet for colors, layout, and responsive design
 
 script.js: JavaScript logic for interactivity and scoring
 
-🌍 Features
+---
+
+## 🌍 Features
 Highlights correct and incorrect selections
 
 Tracks score and remaining attempts
@@ -36,7 +43,9 @@ Responsive layout with engaging design
 
 Includes over 190 clickable countries
 
-🚀 Getting Started
+---
+
+## 🚀 Getting Started
 No installation needed! Simply:
 
 Clone or download this repository
@@ -47,7 +56,9 @@ Play and learn!
 
 Or play it live here: https://dumaleja.github.io/Geo-Trivia/
 
-🛠️ Future Improvements
+---
+
+## 🛠️ Future Improvements
 Add regional or thematic modes (e.g., by continent or GCC)
 
 Include skip penalties or revisit logic
@@ -58,17 +69,23 @@ Add mobile/touchscreen enhancements
 
 Introduce audio feedback and animations
 
-📚 Built With
+---
+
+## 📚 Built With
 HTML5
 
 CSS3 (Flexbox & Grid)
 
 JavaScript (Vanilla ES6)
 
-👨‍🏫 Author
+---
+
+## 👨‍🏫 Author
 Created by J.D., MGIS — a U.S. Air Force analyst, Academy instructor, and geographic educator who believes learning should be immersive, interactive, and challenging.
 
-📝 License & Attribution
+---
+
+## 📝 License & Attribution
 This project is licensed under the MIT License — see the LICENSE file for details.
 
 SVG World Map © amCharts, used under an open license.
